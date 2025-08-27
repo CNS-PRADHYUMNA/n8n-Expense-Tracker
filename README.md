@@ -11,6 +11,8 @@ To build an automated expense tracking system that logs daily expenses, categori
 - **Pivot Tables & Charts** – for category-wise summaries and visual insights.
 - **Telegram Api** - Servers as Input
 - **Grok AI** - gpt-oss-120 model
+- **Cron-Job** - to make sure the n8n remains active
+- This project is completely built on free of cost and n8n is cloud hosted i.e --> render
 
 ---
 
